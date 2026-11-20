@@ -1,0 +1,13 @@
+---
+
+## 2. Install Project Dependencies
+
+Run:
+
+```bash
+npm install @supabase/supabase-js
+npm install expo-router
+npm install react-native-safe-area-context
+npm install react-native-screens
+npm install react-native-svg
+npm install react-native-url-polyfill
