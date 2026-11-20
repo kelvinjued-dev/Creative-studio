@@ -1,0 +1,20 @@
+app/
+├── (auth)
+│   ├── login.tsx
+│   └── register.tsx
+│
+├── (tabs)
+│   ├── index.tsx
+│   ├── projects.tsx
+│   ├── create.tsx
+│   └── profile.tsx
+│
+└── _layout.tsx
+
+services/
+├── supabase
+│   └── client.ts
+
+components/
+hooks/
+types/
